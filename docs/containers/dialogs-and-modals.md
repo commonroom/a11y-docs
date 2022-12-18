@@ -1,6 +1,1 @@
----
-title = "dialogs and modals" # required 
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Dialogs and Modals

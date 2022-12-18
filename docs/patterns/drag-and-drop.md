@@ -1,6 +1,1 @@
----
-title = "drag and drop" # required 
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Drag and Drop

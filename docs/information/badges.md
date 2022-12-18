@@ -1,6 +1,1 @@
----
-title = "badges" # required 
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Badges 

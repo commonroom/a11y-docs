@@ -1,6 +1,1 @@
----
-title = "menu bars" # required 
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Menu Bars and Items

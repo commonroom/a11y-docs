@@ -1,6 +1,1 @@
----
-title = "text fields" # required 
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Text Fields

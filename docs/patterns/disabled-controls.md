@@ -1,6 +1,1 @@
----
-title = "disabled controls" # required 
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Disabled Controls

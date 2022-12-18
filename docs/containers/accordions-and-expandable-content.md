@@ -1,6 +1,1 @@
----
-title = "accordions and expandable content" # required  
-# description = ""
-# tags = [""]
-# keywords = [""]
----
+# Accordions and Expandable Content
