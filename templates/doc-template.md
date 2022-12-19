@@ -8,7 +8,7 @@
 
 #### (Essential Element)
 
-### Code Snippet
+### Example
 
 ### Usage
 
@@ -24,7 +24,7 @@
 
 #### (Essential Element)
 
-### Code Snippet
+### Example
 
 ### Usage
 
